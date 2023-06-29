@@ -3,6 +3,7 @@
 <h3 align="left">Educations:</h3>
 - Bachelor of Computer Science (Hons.) 2021-present Universiti Teknologi MARA, Kuala Terengganu, Terengganu
 - Diploma in Computer Science 2018-2021 Universiti Teknologi MARA, Segamat, Johor
+- 📫 How to reach me **haikal2205hbk@gmail.com**
 <h1></h1>
 
 - 👨‍💻 All of my projects are available at [https://myportfolio-haikal-khalid.000webhostapp.com/projects.html](https://myportfolio-haikal-khalid.000webhostapp.com/projects.html)
