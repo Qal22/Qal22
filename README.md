@@ -2,8 +2,8 @@
 
 <h3 align="left">Educations:</h3>
 
-- Bachelor of Computer Science (Hons.) 2021-present Universiti Teknologi MARA, Kuala Terengganu, Terengganu
-- Diploma in Computer Science 2018-2021 Universiti Teknologi MARA, Segamat, Johor
+- Bachelor of Computer Science (Hons.) | 2021-present | Universiti Teknologi MARA, Kuala Terengganu, Terengganu
+- Diploma in Computer Science | 2018-2021 | Universiti Teknologi MARA, Segamat, Johor
 
 <h1></h1>
 
