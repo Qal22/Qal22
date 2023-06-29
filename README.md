@@ -5,6 +5,8 @@
 - Bachelor of Computer Science (Hons.) 2021-present Universiti Teknologi MARA, Kuala Terengganu, Terengganu
 - Diploma in Computer Science 2018-2021 Universiti Teknologi MARA, Segamat, Johor
 
+<h1></h1>
+
 - 👨‍💻 All of my projects are available at [https://myportfolio-haikal-khalid.000webhostapp.com/projects.html](https://myportfolio-haikal-khalid.000webhostapp.com/projects.html)
 
 - 📫 How to reach me **haikal2205hbk@gmail.com**
