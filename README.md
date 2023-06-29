@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haikal</h1>
 <h3 align="center">Undergraduate Student</h3>
-------------------
+<h1></h1>
 
 - 👨‍💻 All of my projects are available at [https://myportfolio-haikal-khalid.000webhostapp.com/projects.html](https://myportfolio-haikal-khalid.000webhostapp.com/projects.html)
 
